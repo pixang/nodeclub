@@ -3,3 +3,7 @@ exports.index = function (req, res, next) {
   q = encodeURIComponent(q);
   res.redirect('https://www.google.com.hk/#hl=zh-CN&q=site:cnodejs.org+' + q);
 };
+
+
+//this isi iisi isi iisi iisi iis iisi i
+////////
